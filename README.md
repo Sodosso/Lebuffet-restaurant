@@ -1,2 +1,4 @@
-# Lebuffet restaurant
-SQL CLASS PROJECT INSPIRED BY THE RESTAURANT CONCEPT IVE ALWAYS DREAMED OF
+# Lebuffet Restaurant Database Project
+
+Lebuffet Restaurant is a restaurant management database designed to organize customer information, menu items, orders, payments, employees, inventory, and business operations. The database uses primary keys and foreign keys to maintain data integrity and establish relationships between entities. Menu items are organized through categories and styles, while orders and payments are linked to support transaction tracking. Employee and contractor tables allow staff management and payroll organization. One challenge during the design process was creating accurate relationships while minimizing redundant data. The final EER diagram provides a scalable structure that supports restaurant operations, reporting, customer management, reservations, inventory tracking, and future expansion of the business.
+``
